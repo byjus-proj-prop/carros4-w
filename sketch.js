@@ -13,7 +13,7 @@ var cars, car1, car2, car3, car4;
 var track, car1_img, car2_img, car3_img, car4_img,bgmsc,fail,bateu;
 
 function preload(){
-  track = loadImage("../images/track.png");
+  track = loadImage("./images/track.png");
   car1_img = loadImage("./images/car1.png");
   car2_img = loadImage("./images/car2.png");
   car3_img = loadImage("./images/car3.png");
